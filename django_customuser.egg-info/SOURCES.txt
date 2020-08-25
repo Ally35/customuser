@@ -1,0 +1,10 @@
+setup.py
+django_customuser/__init__.py
+django_customuser/asgi.py
+django_customuser/settings.py
+django_customuser/urls.py
+django_customuser/wsgi.py
+django_customuser.egg-info/PKG-INFO
+django_customuser.egg-info/SOURCES.txt
+django_customuser.egg-info/dependency_links.txt
+django_customuser.egg-info/top_level.txt
