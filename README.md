@@ -24,4 +24,10 @@ Source list (Resurces that have assisted in learning and understanding material.
     
     .4 The Django template language: for Python programmers
 
+[R5] How to Create User Sign Up View <simpleisbetterthancomplex>
 
+    A tutorial talking about user signup & registration in regards to User Custom Model & the Abstract User option. Using this for all the sign up parts!
+    
+[R6] Django adding placeholders to django built in login forms <https://stackoverflow.com/questions/43542442/django-adding-placeholders-to-django-built-in-login-forms>
+
+    Stack overflow question about login form and meta class model for login
